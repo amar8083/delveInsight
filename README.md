@@ -51,3 +51,4 @@ make a new registration for login . pass parameter in url (localhost/register) a
 
 --for model click on Get A quote
 --form data display in andmin panel
+--for admin panel click on admin login given in navbar
