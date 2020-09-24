@@ -31,7 +31,7 @@
 --connect internet on your system
 --make a database on your local server like use xampp ammp and other where you comfertable
 with name of "amarproject" make sure username:root and password:null
---import data base file from given folder 
+--import mysql file from database folder 
 --open cmd and go on the location for folder and run command "php artisan serve"
 --if you importing given mysql file please use id and password for admin panel
 (Email id:- amar@gmail.com , password: 123456789)
@@ -51,3 +51,4 @@ make a new registration for login . pass parameter in url (localhost/register) a
 
 --for model click on Get A quote
 --form data display in andmin panel
+--for admin panel click on admin login given in navbar
